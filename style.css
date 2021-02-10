@@ -1,0 +1,38 @@
+aside{
+	width: 10%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: teal;
+}
+div{
+	background-color: red;
+	color: black;
+}
+fieldset {
+  background-color: #eeeeee;
+}
+
+legend {
+  background-color: gray;
+  color: white;
+  padding: 5px 10px;
+}
+
+input {
+  margin: 5px;
+}
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: lime;
+  color: black;
+}
+table,th,td{
+	border: 2px solid green;
+	width: 400px;
+}
+th, td {
+    padding: 10px;
+ }
